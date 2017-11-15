@@ -4,4 +4,4 @@ Course by Arnold and Felsenstein on evolutionary quantitative genetics, merging 
 
 Draft website landing page at https://evolutionaryquantitativegenetics.github.io/website/.
 
-See an example of a course website at https://evolutionaryquantitativegenetics.github.io/website/2017.
+See an example of a lecture page at https://evolutionaryquantitativegenetics.github.io/website/2017/Lecture4_2/.
