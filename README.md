@@ -1,2 +1,5 @@
-# website
-Prototype of new website for the course
+## Evolutionary Quantitative Genetics
+
+Course by Arnold and Felsenstein on evolutionary quantitative genetics, merging quantitative genetics with methods in macroevolution. It features a (somewhat) rotating cast of instructors.
+
+
